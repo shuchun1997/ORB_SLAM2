@@ -1,0 +1,3 @@
+cd ~/ORB-SLAM2/Monocular
+输入:
+./mono_tum ../../Vocabulary/ORBvoc.txt ./TUM1.yaml  ../Monocular/rgbd_dataset_freiburg1_xyz 

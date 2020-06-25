@@ -1,0 +1,6 @@
+/home/shuchun/下载/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shuchun/ORB_SLAM2
+Build type: Debug
+-- Using flag -std=c++11.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shuchun/ORB_SLAM2/cmake-build-debug

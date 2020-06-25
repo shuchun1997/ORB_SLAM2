@@ -1,0 +1,4 @@
+cd ~/ORB-SLAM2/RGB_D
+输入:
+./rgbd_tum ../../Vocabulary/ORBvoc.txt ./TUM1.yaml  ../Monocular/rgbd_dataset_freiburg1_xyz ./associations/fr1_xyz.txt 
+
